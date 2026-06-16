@@ -11,3 +11,7 @@ It was made in haste because I needed a point and shoot the very next morning. I
     <img src="https://img.youtube.com/vi/CD7sIbKeu5s/maxresdefault.jpg" alt="Watch the video" width="640" height="360" border="10" />
   </a>
 </p>
+
+# Circuit Diagram 
+
+<img width="828" height="368" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/3d67959a-f454-4ffd-8754-f4cf8c584c97" />
