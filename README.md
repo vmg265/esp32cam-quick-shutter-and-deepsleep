@@ -6,4 +6,8 @@ This Arduino sketch is designed for an ESP32-CAM dev board. Its a simple click a
 It was made in haste because I needed a point and shoot the very next morning. I didnt have time to solder a pushbutton, so I just use the reset pin as a shutter button. The code is supposed to just take a still image, blink the builtin led thrice, update the image count and go back to sleep, resetting the board essentially acts like a wake up button and runs the program once before going back to sleep so its very battery efficient 
 
 # Related Youtube Video
-[![Watch the video](https://img.youtube.com/vi/CD7sIbKeu5s/maxresdefault.jpg)](https://www.youtube.com/watch?v=CD7sIbKeu5s)
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=CD7sIbKeu5s" target="_blank">
+    <img src="https://img.youtube.com/vi/CD7sIbKeu5s/maxresdefault.jpg" alt="Watch the video" width="640" height="360" border="10" />
+  </a>
+</p>
