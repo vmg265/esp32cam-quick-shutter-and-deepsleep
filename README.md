@@ -15,8 +15,13 @@ It was made in haste because I needed a point and shoot the very next morning. I
 # Circuit Diagram 
 
 <img width="828" height="368" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/3d67959a-f454-4ffd-8754-f4cf8c584c97" />
+
 Components used- 
+
 1. 3.7v LiPo Battery
+
 2. 3.7v to 5v buck boost convertor
+
 3. tp4056 charge module
+
 4. esp32cam dev board
